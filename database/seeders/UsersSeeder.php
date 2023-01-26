@@ -18,15 +18,17 @@ class UsersSeeder extends Seeder
     {
         $demoUser = User::create([
             'name'              => $faker->name,
-            'email'             => 'demo@demo.com',
-            'password'          => Hash::make('demo'),
+            'email'             => 'admin@mumara.com',
+            'password'          => Hash::make('123456'),
+            'photo'             => 'sam.jpg',
             'email_verified_at' => now(),
         ]);
 
         $demoUser2 = User::create([
             'name'              => $faker->name,
-            'email'             => 'admin@demo.com',
-            'password'          => Hash::make('demo'),
+            'email'             => 'wasif@hostingshouse.com',
+            'password'          => Hash::make('123456'),
+            'photo'             => 'wasif.jpg',
             'email_verified_at' => now(),
         ]);
     }
