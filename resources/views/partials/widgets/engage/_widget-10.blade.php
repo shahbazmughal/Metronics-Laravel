@@ -1,7 +1,7 @@
 <!--begin::Engage widget 10-->
 <div class="card card-flush h-md-100">
 	<!--begin::Body-->
-	<div class="card-body d-flex flex-column justify-content-between mt-9 bgi-no-repeat bgi-size-cover bgi-position-x-center pb-0" style="background-position: 100% 50%; background-image:url({{ image('stock/900x600/42.png') }})">
+	<div class="card-body d-flex flex-column justify-content-between mt-9 bgi-no-repeat bgi-size-cover bgi-position-x-center pb-0" style="background-position: 100% 50%; background-image:url({{ image('misc/42.png') }})">
 		<!--begin::Wrapper-->
 		<div class="mb-10">
 			<!--begin::Title-->

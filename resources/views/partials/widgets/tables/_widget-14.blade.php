@@ -39,7 +39,7 @@
 						<td>
 							<div class="d-flex align-items-center">
 								<div class="symbol symbol-50px me-3">
-									<img src="{{ image('stock/600x600/img-49.jpg') }}" class="" alt="" />
+									<img src="{{ image('avatars/blank.png') }}" class="" alt="" />
 								</div>
 								<div class="d-flex justify-content-start flex-column">
 									<a href="#" class="text-gray-800 fw-bold text-hover-primary mb-1 fs-6">Mivy App</a>
@@ -86,7 +86,7 @@
 						<td>
 							<div class="d-flex align-items-center">
 								<div class="symbol symbol-50px me-3">
-									<img src="{{ image('stock/600x600/img-40.jpg') }}" class="" alt="" />
+									<img src="{{ image('avatars/blank.png') }}" class="" alt="" />
 								</div>
 								<div class="d-flex justify-content-start flex-column">
 									<a href="#" class="text-gray-800 fw-bold text-hover-primary mb-1 fs-6">Avionica</a>
@@ -133,7 +133,7 @@
 						<td>
 							<div class="d-flex align-items-center">
 								<div class="symbol symbol-50px me-3">
-									<img src="{{ image('stock/600x600/img-39.jpg') }}" class="" alt="" />
+									<img src="{{ image('avatars/blank.png') }}" class="" alt="" />
 								</div>
 								<div class="d-flex justify-content-start flex-column">
 									<a href="#" class="text-gray-800 fw-bold text-hover-primary mb-1 fs-6">Charto CRM</a>
@@ -180,7 +180,7 @@
 						<td>
 							<div class="d-flex align-items-center">
 								<div class="symbol symbol-50px me-3">
-									<img src="{{ image('stock/600x600/img-47.jpg') }}" class="" alt="" />
+									<img src="{{ image('avatars/blank.png') }}" class="" alt="" />
 								</div>
 								<div class="d-flex justify-content-start flex-column">
 									<a href="#" class="text-gray-800 fw-bold text-hover-primary mb-1 fs-6">Tower Hill</a>
@@ -227,7 +227,7 @@
 						<td>
 							<div class="d-flex align-items-center">
 								<div class="symbol symbol-50px me-3">
-									<img src="{{ image('stock/600x600/img-48.jpg') }}" class="" alt="" />
+									<img src="{{ image('avatars/blank.png') }}" class="" alt="" />
 								</div>
 								<div class="d-flex justify-content-start flex-column">
 									<a href="#" class="text-gray-800 fw-bold text-hover-primary mb-1 fs-6">9 Degree</a>

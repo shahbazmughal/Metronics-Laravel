@@ -9,7 +9,7 @@
 		<!--end::Description-->
 		<!--begin::Illustration-->
 		<div class="text-center px-4 py-15">
-			<img src="{{ image('illustrations/sketchy-1/9.png') }}" alt="" class="mw-100 mh-300px" />
+			<img src="{{ image('avatars/blank.svg') }}" alt="" class="mw-100 mh-300px" />
 		</div>
 		<!--end::Illustration-->
 	</div>

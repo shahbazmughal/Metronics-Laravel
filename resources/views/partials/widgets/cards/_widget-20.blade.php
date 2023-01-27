@@ -1,5 +1,5 @@
 <!--begin::Card widget 20-->
-<div class="card card-flush bgi-no-repeat bgi-size-contain bgi-position-x-end h-md-50 mb-5 mb-xl-10" style="background-color: #F1416C;background-image:url({{ image('patterns/vector-1.png') }})">
+<div class="card card-flush bgi-no-repeat bgi-size-contain bgi-position-x-end h-md-50 mb-5 mb-xl-10" style="background-color: #F1416C;background-image:url({{ image('misc/vector-1.png') }})">
 	<!--begin::Header-->
 	<div class="card-header pt-5">
 		<!--begin::Title-->

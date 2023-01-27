@@ -21,9 +21,9 @@
 		<!--end::Input-->
 		<!--begin::Card logos-->
 		<div class="position-absolute translate-middle-y top-50 end-0 me-5">
-			<img src="{{ image('svg/card-logos/visa.svg') }}" alt="" class="h-25px" />
-			<img src="{{ image('svg/card-logos/mastercard.svg') }}" alt="" class="h-25px" />
-			<img src="{{ image('svg/card-logos/american-express.svg') }}" alt="" class="h-25px" />
+			<img src="{{ image('avatars/blank.png') }}" alt="" class="h-25px" />
+			<img src="{{ image('avatars/blank.png') }}" alt="" class="h-25px" />
+			<img src="{{ image('avatars/blank.png') }}" alt="" class="h-25px" />
 		</div>
 		<!--end::Card logos-->
 	</div>
