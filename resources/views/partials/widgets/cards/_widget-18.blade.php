@@ -7,7 +7,7 @@
 			<!--begin::Col-->
 			<div class="col-sm-6 mb-10 mb-sm-0">
 				<!--begin::Image-->
-				<div class="bgi-no-repeat bgi-position-center bgi-size-cover card-rounded min-h-400px min-h-sm-100 h-100" style="background-size: 100% 100%;background-image:url({{ image('stock/600x600/img-65.jpg') }})"></div>
+				<div class="bgi-no-repeat bgi-position-center bgi-size-cover card-rounded min-h-400px min-h-sm-100 h-100" style="background-size: 100% 100%;background-image:url({{ image('misc/img-65.jpg') }})"></div>
 				<!--end::Image-->
 			</div>
 			<!--end::Col-->
@@ -34,7 +34,7 @@
 							<div class="d-flex align-items-center me-5 me-xl-13">
 								<!--begin::Symbol-->
 								<div class="symbol symbol-30px symbol-circle me-3">
-									<img src="{{ image('avatars/300-3.jpg') }}" class="" alt="" />
+									<img src="{{ image('avatars/blank.png') }}" class="" alt="" />
 								</div>
 								<!--end::Symbol-->
 								<!--begin::Info-->
@@ -110,10 +110,10 @@
 						<!--begin::Users group-->
 						<div class="symbol-group symbol-hover flex-nowrap">
 							<div class="symbol symbol-35px symbol-circle" data-bs-toggle="tooltip" title="Melody Macy">
-								<img alt="Pic" src="{{ image('avatars/300-2.jpg') }}" />
+								<img alt="Pic" src="{{ image('avatars/blank.png') }}" />
 							</div>
 							<div class="symbol symbol-35px symbol-circle" data-bs-toggle="tooltip" title="Michael Eberon">
-								<img alt="Pic" src="{{ image('avatars/300-3.jpg') }}" />
+								<img alt="Pic" src="{{ image('avatars/blank.png') }}" />
 							</div>
 							<div class="symbol symbol-35px symbol-circle" data-bs-toggle="tooltip" title="Susan Redwood">
 								<span class="symbol-label bg-primary text-inverse-primary fw-bold">S</span>

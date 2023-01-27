@@ -44,7 +44,7 @@
 					<div class="d-flex align-items-center">
 						<!--begin::Avatar-->
 						<div class="symbol symbol-35px">
-							<img src="{{ image('svg/files/pdf.svg') }}" alt="icon" />
+							<img src="{{ image('avatars/blank.png') }}" alt="icon" />
 						</div>
 						<!--end::Avatar-->
 						<!--begin::Details-->
@@ -71,7 +71,7 @@
 					<div class="d-flex align-items-center">
 						<!--begin::Avatar-->
 						<div class="symbol symbol-35px">
-							<img src="{{ image('svg/files/doc.svg') }}" alt="icon" />
+							<img src="{{ image('avatars/blank.png') }}" alt="icon" />
 						</div>
 						<!--end::Avatar-->
 						<!--begin::Details-->
@@ -98,7 +98,7 @@
 					<div class="d-flex align-items-center">
 						<!--begin::Avatar-->
 						<div class="symbol symbol-35px">
-							<img src="{{ image('svg/files/css.svg') }}" alt="icon" />
+							<img src="{{ image('avatars/blank.png') }}" alt="icon" />
 						</div>
 						<!--end::Avatar-->
 						<!--begin::Details-->
@@ -125,7 +125,7 @@
 					<div class="d-flex align-items-center">
 						<!--begin::Avatar-->
 						<div class="symbol symbol-35px">
-							<img src="{{ image('svg/files/ai.svg') }}" alt="icon" />
+							<img src="{{ image('avatars/blank.png') }}" alt="icon" />
 						</div>
 						<!--end::Avatar-->
 						<!--begin::Details-->
@@ -152,7 +152,7 @@
 					<div class="d-flex align-items-center">
 						<!--begin::Avatar-->
 						<div class="symbol symbol-35px">
-							<img src="{{ image('svg/files/tif.svg') }}" alt="icon" />
+							<img src="{{ image('avatars/blank.png') }}" alt="icon" />
 						</div>
 						<!--end::Avatar-->
 						<!--begin::Details-->

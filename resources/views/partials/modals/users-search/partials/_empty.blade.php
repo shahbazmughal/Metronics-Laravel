@@ -8,7 +8,7 @@
 	<!--end::Message-->
 	<!--begin::Illustration-->
 	<div class="text-center px-5">
-		<img src="{{ image('illustrations/sketchy-1/1.png') }}" alt="" class="w-100 h-200px h-sm-325px" />
+		<img src="{{ image('avatars/blank.png') }}" alt="" class="w-100 h-200px h-sm-325px" />
 	</div>
 	<!--end::Illustration-->
 </div>

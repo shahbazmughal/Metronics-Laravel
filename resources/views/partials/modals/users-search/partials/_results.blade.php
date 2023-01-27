@@ -13,7 +13,7 @@
 				<!--end::Checkbox-->
 				<!--begin::Avatar-->
 				<div class="symbol symbol-35px symbol-circle">
-					<img alt="Pic" src="{{ image('avatars/300-6.jpg') }}" />
+					<img alt="Pic" src="{{ image('avatars/blank.png') }}" />
 				</div>
 				<!--end::Avatar-->
 				<!--begin::Details-->
@@ -85,7 +85,7 @@
 				<!--end::Checkbox-->
 				<!--begin::Avatar-->
 				<div class="symbol symbol-35px symbol-circle">
-					<img alt="Pic" src="{{ image('avatars/300-1.jpg') }}" />
+					<img alt="Pic" src="{{ image('avatars/blank.png') }}" />
 				</div>
 				<!--end::Avatar-->
 				<!--begin::Details-->
@@ -121,7 +121,7 @@
 				<!--end::Checkbox-->
 				<!--begin::Avatar-->
 				<div class="symbol symbol-35px symbol-circle">
-					<img alt="Pic" src="{{ image('avatars/300-5.jpg') }}" />
+					<img alt="Pic" src="{{ image('avatars/blank.png') }}" />
 				</div>
 				<!--end::Avatar-->
 				<!--begin::Details-->
@@ -157,7 +157,7 @@
 				<!--end::Checkbox-->
 				<!--begin::Avatar-->
 				<div class="symbol symbol-35px symbol-circle">
-					<img alt="Pic" src="{{ image('avatars/300-25.jpg') }}" />
+					<img alt="Pic" src="{{ image('avatars/blank.png') }}" />
 				</div>
 				<!--end::Avatar-->
 				<!--begin::Details-->
@@ -229,7 +229,7 @@
 				<!--end::Checkbox-->
 				<!--begin::Avatar-->
 				<div class="symbol symbol-35px symbol-circle">
-					<img alt="Pic" src="{{ image('avatars/300-9.jpg') }}" />
+					<img alt="Pic" src="{{ image('avatars/blank.png') }}" />
 				</div>
 				<!--end::Avatar-->
 				<!--begin::Details-->
@@ -337,7 +337,7 @@
 				<!--end::Checkbox-->
 				<!--begin::Avatar-->
 				<div class="symbol symbol-35px symbol-circle">
-					<img alt="Pic" src="{{ image('avatars/300-23.jpg') }}" />
+					<img alt="Pic" src="{{ image('avatars/blank.png') }}" />
 				</div>
 				<!--end::Avatar-->
 				<!--begin::Details-->
@@ -409,7 +409,7 @@
 				<!--end::Checkbox-->
 				<!--begin::Avatar-->
 				<div class="symbol symbol-35px symbol-circle">
-					<img alt="Pic" src="{{ image('avatars/300-12.jpg') }}" />
+					<img alt="Pic" src="{{ image('avatars/blank.png') }}" />
 				</div>
 				<!--end::Avatar-->
 				<!--begin::Details-->
@@ -481,7 +481,7 @@
 				<!--end::Checkbox-->
 				<!--begin::Avatar-->
 				<div class="symbol symbol-35px symbol-circle">
-					<img alt="Pic" src="{{ image('avatars/300-13.jpg') }}" />
+					<img alt="Pic" src="{{ image('avatars/blank.png') }}" />
 				</div>
 				<!--end::Avatar-->
 				<!--begin::Details-->
@@ -553,7 +553,7 @@
 				<!--end::Checkbox-->
 				<!--begin::Avatar-->
 				<div class="symbol symbol-35px symbol-circle">
-					<img alt="Pic" src="{{ image('avatars/300-21.jpg') }}" />
+					<img alt="Pic" src="{{ image('avatars/blank.png') }}" />
 				</div>
 				<!--end::Avatar-->
 				<!--begin::Details-->

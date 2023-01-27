@@ -145,6 +145,7 @@
 		  </div>
 		</div>
 		<div class="tab-pane fade show active" id="kt_topbar_notifications_2" role="tabpanel">
+<<<<<<< HEAD
 		  <div class="d-flex flex-column px-9">
 			<div class="pt-10 pb-0">
 			  <h3 class="text-dark text-center fw-bolder"> Update Mumara </h3>
@@ -155,6 +156,30 @@
 			  <div class="text-center mt-5">
 				<a href="javascript:;" class="btn btn-sm btn-primary px-6" data-bs-toggle="modal" data-bs-target="#kt_modal_upgrade_plan">Update Now</a>
 			  </div>
+=======
+			<!--begin::Wrapper-->
+			<div class="d-flex flex-column px-9">
+				<!--begin::Section-->
+				<div class="pt-10 pb-0">
+					<!--begin::Title-->
+					<h3 class="text-dark text-center fw-bold">Get Pro Access</h3>
+					<!--end::Title-->
+					<!--begin::Text-->
+					<div class="text-center text-gray-600 fw-semibold pt-1">Outlines keep you honest. They stoping you from amazing poorly about drive</div>
+					<!--end::Text-->
+					<!--begin::Action-->
+					<div class="text-center mt-5 mb-9">
+						<a href="#" class="btn btn-sm btn-primary px-6" data-bs-toggle="modal" data-bs-target="#kt_modal_upgrade_plan">Upgrade</a>
+					</div>
+					<!--end::Action-->
+				</div>
+				<!--end::Section-->
+				<!--begin::Illustration-->
+				<div class="text-center px-4">
+					<img class="mw-100 mh-200px" alt="image" src="{{ image('avatars/blank.png') }}" />
+				</div>
+				<!--end::Illustration-->
+>>>>>>> 6809d53bb1884f061906b2ba8777dc9bcab576b5
 			</div>
 			<div class="text-center px-4">
 			  <img class="mw-100 mh-200px mt--20" alt="image" src="{{ image('images/2.png') }}" />

@@ -20,7 +20,7 @@
 		<!--end::Actions-->
 		<!--begin::Illustration-->
 		<div class="text-center px-4">
-			<img src="{{ asset('illustrations/sketchy-1/9.png') }}" alt="" class="mww-100 mh-350px" />
+			<img src="{{ asset('avatars/blank.svg') }}" alt="" class="mww-100 mh-350px" />
 		</div>
 		<!--end::Illustration-->
 	</div>
