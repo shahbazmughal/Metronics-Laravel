@@ -1,4 +1,4 @@
-<!-- <div class="menu menu-sub menu-sub-dropdown menu-column w-350px w-lg-375px" data-kt-menu="true">
+<div class="menu menu-sub menu-sub-dropdown menu-column w-350px w-lg-375px" data-kt-menu="true">
   <div class="d-flex flex-column flex-center bgi-no-repeat rounded-top px-9 py-10" style="background-image:url({{ image('misc/menu-header-bg.jpg')}})">  
     <h3 class="text-white fw-bold px-9 mt-10 mb-6"> Processes <span class="fs-8 opacity-75 ms-3 badge badge-light-info">10</span></h3>
     <ul class="nav nav-line-tabs nav-line-tabs-2x nav-stretch fw-bold px-9">
@@ -244,4 +244,4 @@
       </div>
     </div>
   </div>
-</div> -->
+</div>

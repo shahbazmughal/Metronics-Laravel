@@ -1,5 +1,5 @@
 <div class="menu menu-sub menu-sub-dropdown menu-column w-350px w-lg-375px" data-kt-menu="true">
-	<div class="d-flex flex-column flex-center bgi-no-repeat rounded-top px-9 py-10" style="background-image:url({{ image ('misc/menu-header-bg.jpg')}})">
+	<div class="d-flex flex-column flex-center bgi-no-repeat rounded-top px-9" style="background-image:url({{ image ('misc/menu-header-bg.jpg')}})">
 		<h3 class="text-white fw-semibold px-9 mt-10 mb-6">Alerts
 			<span class="fs-8 opacity-75 ms-3 badge badge-light-info">24</span></h3>
 		<ul class="nav nav-line-tabs nav-line-tabs-2x nav-stretch fw-semibold px-9">
@@ -145,7 +145,6 @@
 		  </div>
 		</div>
 		<div class="tab-pane fade show active" id="kt_topbar_notifications_2" role="tabpanel">
-<<<<<<< HEAD
 		  <div class="d-flex flex-column px-9">
 			<div class="pt-10 pb-0">
 			  <h3 class="text-dark text-center fw-bolder"> Update Mumara </h3>
@@ -156,30 +155,6 @@
 			  <div class="text-center mt-5">
 				<a href="javascript:;" class="btn btn-sm btn-primary px-6" data-bs-toggle="modal" data-bs-target="#kt_modal_upgrade_plan">Update Now</a>
 			  </div>
-=======
-			<!--begin::Wrapper-->
-			<div class="d-flex flex-column px-9">
-				<!--begin::Section-->
-				<div class="pt-10 pb-0">
-					<!--begin::Title-->
-					<h3 class="text-dark text-center fw-bold">Get Pro Access</h3>
-					<!--end::Title-->
-					<!--begin::Text-->
-					<div class="text-center text-gray-600 fw-semibold pt-1">Outlines keep you honest. They stoping you from amazing poorly about drive</div>
-					<!--end::Text-->
-					<!--begin::Action-->
-					<div class="text-center mt-5 mb-9">
-						<a href="#" class="btn btn-sm btn-primary px-6" data-bs-toggle="modal" data-bs-target="#kt_modal_upgrade_plan">Upgrade</a>
-					</div>
-					<!--end::Action-->
-				</div>
-				<!--end::Section-->
-				<!--begin::Illustration-->
-				<div class="text-center px-4">
-					<img class="mw-100 mh-200px" alt="image" src="{{ image('avatars/blank.png') }}" />
-				</div>
-				<!--end::Illustration-->
->>>>>>> 6809d53bb1884f061906b2ba8777dc9bcab576b5
 			</div>
 			<div class="text-center px-4">
 			  <img class="mw-100 mh-200px mt--20" alt="image" src="{{ image('images/2.png') }}" />
