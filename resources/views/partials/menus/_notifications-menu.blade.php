@@ -285,7 +285,7 @@
 				<!--end::Section-->
 				<!--begin::Illustration-->
 				<div class="text-center px-4">
-					<img class="mw-100 mh-200px" alt="image" src="{{ image('avatars/blank.png') }}" />
+					<img class="mw-100 mh-200px" alt="image" src="{{ image('misc/1.png') }}" />
 				</div>
 				<!--end::Illustration-->
 			</div>
