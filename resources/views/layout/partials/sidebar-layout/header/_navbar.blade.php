@@ -1,8 +1,9 @@
 <div class="app-navbar flex-shrink-0">
     <div class="app-navbar-item ms-1 ms-lg-3">
-        <div class="btn btn-icon btn-custom btn-icon-muted btn-active-light btn-active-color-primary w-35px h-35px w-md-40px h-md-40px" id="kt_activities_toggle">
-            @include('partials/menus/_processing-menu')
+        <div class="btn btn-icon btn-custom btn-icon-muted btn-active-light btn-active-color-primary w-35px h-35px w-md-40px h-md-40px"  data-kt-menu-trigger="{default: 'click', lg: 'hover'}" data-kt-menu-attach="parent" data-kt-menu-placement="bottom-end">
+            {!! getSvgIcon('duotune/general/setup.svg', 'svg-icon svg-icon-1') !!}
         </div>
+        @include('partials/menus/_setup-menu')
     </div>
     <div class="app-navbar-item ms-1 ms-lg-3">
         <div class="btn btn-icon btn-custom btn-icon-muted btn-active-light btn-active-color-primary w-35px h-35px w-md-40px h-md-40px"  data-kt-menu-trigger="{default: 'click', lg: 'hover'}" data-kt-menu-attach="parent" data-kt-menu-placement="bottom-end">
