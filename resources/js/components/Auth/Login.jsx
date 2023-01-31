@@ -10,6 +10,7 @@ function Login() {
     const [passwordValid, setPasswordValid] = useState("");
     const [error, setError] = useState(false);
     const [success, setSuccess] = useState(false);
+    const [loading, setLoading] = useState(false);
 
     function isValidEmail(email) {
         return /\S+@\S+\.\S+/.test(email);
@@ -31,30 +32,42 @@ function Login() {
         } else {
             setEmailValid("");
             setPasswordValid("");
-            console.log(email, password)
+            setLoading(true);
 
             const values = {email:email, password:password}
+            console.log(values);
 
             try {
                 const res = await axios.post('http://mumara9.live/api/v1/login', values);
-                if(res.data.status) {
+                if(res.data.status === "active") {
                     console.log(res.data)
                     localStorage.setItem('user', JSON.stringify(res.data));
                     localStorage.setItem('token', res.data.api_token);
                     setSuccess(true);
+                    setError(false);
+                    setLoading(false);
                 } else {
+                    setSuccess(false);
                     setError(true);
                     localStorage.removeItem('user');
                     localStorage.removeItem('token');
+                    setLoading(false);
                 }
             } catch (error) {
-                console.log(error)
+                setSuccess(false);
+                setError(true);
+                console.log(error);
+                setLoading(false);
             }
         }
     }
 
     return (
         <>
+            {
+                loading && 
+                <div className="loading" id="loading"><div className="loader"></div></div>
+            }
             <div className="text-center mb-11">
                 <a href="/">
                     <img src="/assets/media/logos/logo.png" className="h-50px mb-5" />
@@ -70,14 +83,14 @@ function Login() {
 
             {
                 error &&
-                <div class="alert bg-danger text-light mb-8" role="alert">
+                <div className="alert bg-danger text-light mb-8" role="alert">
                     Email or password is invalid
                 </div>
             }
 
             {
                 success &&
-                <div class="alert bg-success text-light mb-8" role="alert">
+                <div className="alert bg-success text-light mb-8" role="alert">
                     You are login successfully!
                 </div>
             }
