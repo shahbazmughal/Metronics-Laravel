@@ -1,0 +1,187 @@
+//
+// Custom Style Override
+//
+
+////////////////////////////////////////////////////////////////
+///////////// DO NOT MODIFY BELOW INCLUDE ORDER ////////////////
+////////////////////////////////////////////////////////////////
+
+@include media-breakpoint-up(lg) {
+    .form-control {
+        box-shadow: none !important;
+        outline: 0 none !important;
+        color: #5e6278 !important;
+        transition: color .2s ease, background-color .2s ease;
+        border: 1px solid #bec4d0 !important;
+        background: rgba(235, 237, 242, .4);
+    }
+    .form-control:focus {
+        background-color: #eef3f7 !important;
+        border-color: #b0b7c6 !important;
+    }
+    .was-validated .form-control:invalid, .form-control.is-invalid {
+        border-color: #f1416c !important;
+        background-color: #FFF !important;
+    }
+}
+
+// Tablet & mobile modes
+@include media-breakpoint-down(lg) {
+    .form-control {
+        box-shadow: none !important;
+        outline: 0 none !important;
+        color: #5e6278 !important;
+        transition: color .2s ease, background-color .2s ease;
+        border: 1px solid #bec4d0 !important;
+        background: rgba(235, 237, 242, .4);
+    }
+    .form-control:focus {
+        background-color: #eef3f7 !important;
+        border-color: #b0b7c6 !important;
+    }
+    .was-validated .form-control:invalid, .form-control.is-invalid {
+        border-color: #f1416c !important;
+        background-color: #FFF !important;
+    }
+}
+
+
+
+
+
+
+
+/* add new css */
+.text-decoration-line {
+    text-decoration: line-through;
+  }
+  .tab-content.tab-is {
+    background: #ebeef3;
+  }
+  .tab-content.tab-is .kt-notification {
+    background: transparent !important;
+    margin-top: -33px !important;
+  }
+  .tab-content.tab-is .kt-notification {
+    background: transparent;
+  }
+  .kt-notification {
+    z-index: 9999 !important;
+    clear: both;
+    background: #fff;
+    overflow-y: scroll !important;
+    scrollbar-width: thin;
+  }
+  .scroll-300 {
+    max-height: 300px;
+    min-height: 150px;
+  }
+  .scroll {
+    display: block;
+    overflow-y: auto;
+    scrollbar-width: thin;
+  }
+  .kt-notification {
+    min-height: 126px;
+    height: auto !important;
+    max-height: 300px;
+    overflow-y: overlay !important;
+  }
+  .col-md-12.setep_options {
+    padding: 0 20px;
+  }
+  .setepOptions.done {
+    background: #FFF !important;
+    border: 0 !important;
+    pointer-events: none !important;
+  }
+  .setepOptions {
+    padding: 20px;
+    margin-bottom: 15px;
+    background: #FFF;
+    position: relative;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgb(0 0 0 / 10%);
+  }
+  .setepOptions.done i, .setepOptions.done>h3, .setepOptions {
+    color: #333;
+    pointer-events: all;
+  }
+  .setepOptions.done i, .setepOptions.done>h3, .setepOptions {
+    color: #333;
+    pointer-events: all;
+  }
+  .setepOptions.done h3 {
+    pointer-events: none !important;
+  }
+  .setepOptions.done i, .setepOptions.done>h3 {
+    color: #ccc;
+    pointer-events: none;
+  }
+  .setepOptions h3 {
+    font-weight: 600;
+    margin: 0;
+    cursor: pointer;
+    font-size: 13px;
+    justify-content: flex-start;
+    align-items: center;
+    display: flex;
+  }
+  .done i.fa.fa-check {
+    color: #ffffff !important;
+    border-color: #0465fe !important;
+    background-color: #0465fe !important;
+  }
+  i.fa.fa-check {
+    margin: 0 !important;
+    width: 22px;
+    height: 22px;
+    border: 1px solid #999;
+    opacity: 1;
+    color: #FFF;
+    border-radius: 24px;
+    background: transparent;
+    font-size: 14px !important;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+  }
+  .setepOptions h3 i.fa.fa-check:before {
+    display: block;
+    position: relative;
+    margin-left: -1px;
+    margin-top: 1px;
+  }
+  
+  i.fa.fa-check:before {
+    content: "\f00c";
+  }
+  
+  .setepOptions.done h3 .option-title {
+    color: #333333;
+    font-weight: 500;
+  }
+  .setepOptions.done h3 .option-title {
+    color: #999999;
+    font-weight: 500;
+  }
+  h3 .option-title {
+    margin-left: 10px;
+    font-size: 18px;
+  }
+  .setepOptions.done p.paraSetup {
+    display: none !important;
+  }
+  .setepOptions.done p.paraSetup {
+    display: none;
+  }
+  .paraSetup {
+    color: #333;
+    font-size: .9rem;
+    display: none;
+    margin-bottom: 0;
+    margin-top: 13px;
+  }
+  
+  

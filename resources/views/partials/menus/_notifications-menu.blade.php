@@ -147,7 +147,7 @@
 					</div>
 				</div>
 				<div class="text-center px-4">
-					<img class="mw-100 mh-200px" alt="image" src="{{ image('images/2.png') }}" />
+					<img class="mw-100 mh-200px" alt="image" src="{{ image('misc/2.png') }}" />
 				</div>
 			</div>
 		</div>
