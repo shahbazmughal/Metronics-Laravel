@@ -1,14 +1,13 @@
 {
     "private": true,
     "scripts": {
-        "dev": "npm run development && vite",
+        "dev": "npm run development",
         "development": "mix",
         "watch": "mix watch",
         "watch-poll": "mix watch -- --watch-options-poll=1000",
         "hot": "mix watch --hot",
         "prod": "npm run production",
-        "production": "mix --production",
-        "build": "vite build"
+        "production": "mix --production"
     },
     "dependencies": {
         "@ckeditor/ckeditor5-alignment": "^34.0.0",
@@ -84,7 +83,6 @@
         "prism-themes": "^1.7.0",
         "prismjs": "^1.24.1",
         "quill": "^1.3.7",
-        "react-router-dom": "^6.8.0",
         "select2": "^4.1.0-rc.0",
         "smooth-scroll": "^16.1.3",
         "sweetalert2": "11.4.8",
@@ -96,29 +94,20 @@
         "wnumb": "^1.2.0"
     },
     "devDependencies": {
-        "@popperjs/core": "^2.11.6",
-        "@vitejs/plugin-react": "^2.2.0",
         "alpinejs": "^3.7.1",
         "autoprefixer": "^10.4.2",
         "axios": "^1.1.3",
-        "bootstrap": "^5.2.3",
-        "browser-sync": "^2.27.11",
-        "browser-sync-webpack-plugin": "^2.0.1",
         "del": "^6.0.0",
         "laravel-mix": "^6.0.39",
         "laravel-mix-purgecss": "^6.0.0",
-        "laravel-vite-plugin": "^0.7.3",
         "lodash": "^4.17.19",
         "postcss": "^8.4.5",
         "postcss-import": "^14.0.2",
-        "react": "^18.2.0",
-        "react-dom": "^18.2.0",
         "replace-in-file-webpack-plugin": "^1.0.6",
         "resolve-url-loader": "^4.0.0",
         "rtlcss": "^3.5.0",
-        "sass": "^1.56.1",
+        "sass": "1.55.0",
         "sass-loader": "13.2.0",
-        "vite": "^4.0.4",
         "webpack-rtl-plugin": "^2.0.0"
     }
 }

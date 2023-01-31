@@ -70,7 +70,7 @@ mix.sass(`${dir}/sass/style.scss`, `public/assets/css/style.bundle.css`, {sassOp
     var output = `public/assets/${file.replace(`resources/mix`, 'js')}`;
     mix.scripts(file, output);
 });
-// mix.browserSync('localhost:8000');
+
 // Metronic media
 mix.copyDirectory(`${dir}/media`, `public/assets/media`);
 

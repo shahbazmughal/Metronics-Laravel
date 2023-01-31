@@ -38,10 +38,6 @@
     @endforeach
     <!--end::Custom Stylesheets-->
     @yield('style')
-
-    <!-- Scripts -->
-    @viteReactRefresh
-    @vite(['resources/sass/app.scss', 'resources/js/app.js'])
 </head>
 <!--end::Head-->
 

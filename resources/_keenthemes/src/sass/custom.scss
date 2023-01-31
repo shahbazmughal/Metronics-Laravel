@@ -1,0 +1,46 @@
+//
+// Vendors customization
+//
+
+////////////////////////////////////////////////////////////////
+///////////// DO NOT MODIFY BELOW INCLUDE ORDER ////////////////
+////////////////////////////////////////////////////////////////
+
+@include media-breakpoint-up(lg) {
+    .form-control {
+        box-shadow: none !important;
+        outline: 0 none !important;
+        color: #5e6278 !important;
+        transition: color .2s ease, background-color .2s ease;
+        border: 1px solid #bec4d0 !important;
+        background: rgba(235, 237, 242, .4);
+    }
+    .form-control:focus {
+        background-color: #eef3f7 !important;
+        border-color: #b0b7c6 !important;
+    }
+    .was-validated .form-control:invalid, .form-control.is-invalid {
+        border-color: #f1416c !important;
+        background-color: #FFF !important;
+    }
+}
+
+// Tablet & mobile modes
+@include media-breakpoint-down(lg) {
+    .form-control {
+        box-shadow: none !important;
+        outline: 0 none !important;
+        color: #5e6278 !important;
+        transition: color .2s ease, background-color .2s ease;
+        border: 1px solid #bec4d0 !important;
+        background: rgba(235, 237, 242, .4);
+    }
+    .form-control:focus {
+        background-color: #eef3f7 !important;
+        border-color: #b0b7c6 !important;
+    }
+    .was-validated .form-control:invalid, .form-control.is-invalid {
+        border-color: #f1416c !important;
+        background-color: #FFF !important;
+    }
+}
