@@ -1,4 +1,4 @@
-<div class="card overflow-hidden card-xxl-stretch">
+<div class="card">
     <div class="card-header">
       <h3 class="card-title align-items-start flex-column">
         <span class="card-label fw-bold text-dark"

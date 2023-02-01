@@ -1,4 +1,4 @@
-<div class="card overflow-hidden card-xxl-stretch">
+<div class="card">
 	<div class="card-header">
 	  <h3 class="card-title align-items-start flex-column">
 		<span class="fw-bold text-dark">Live Events</span>
@@ -24,7 +24,7 @@
 	<div class="card-body pt-8 px-6">
 	  <div
 		class="hover-scroll-overlay-y px-2"
-		style="height: 375px"
+		style="height: 380px"
 	  >
 		<div class="timeline-label-1 mx-2">
 		  <div class="timeline-item">

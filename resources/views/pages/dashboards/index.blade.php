@@ -25,10 +25,10 @@
         </div>
     </div>
     <div class="row g-5 g-xl-10">
-        <div class="col-xxl-8">
+        <div class="col-xxl-8 mb-md-5 mb-xl-10">
             @include('partials/widgets/charts/_widget-2')
         </div>
-        <div class="col-xl-4">
+        <div class="col-xl-4 mb-md-5 mb-xl-10">
             @include('partials/widgets/tables/_widget-1')
         </div>
     </div>
