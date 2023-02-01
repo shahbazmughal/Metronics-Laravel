@@ -1,4 +1,16 @@
 <x-default-layout>
+    <script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+    <script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+    <script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
+    <script src="https://cdn.anychart.com/releases/v8/js/anychart-base.min.js"></script>
+    <script src="https://cdn.anychart.com/releases/v8/js/anychart-ui.min.js"></script>
+    <script src="https://cdn.anychart.com/releases/v8/js/anychart-exports.min.js"></script>
+    <script src="https://cdn.anychart.com/releases/v8/js/anychart-map.min.js"></script>
+    <script src="https://cdn.anychart.com/releases/v8/js/anychart-data-adapter.min.js"></script>
+    <script src="https://cdn.anychart.com/geodata/latest/custom/world/world.js"></script>
+    
+
+
     <div class="row g-5 g-xl-10">
         <div class="col-md-6 col-lg-6 col-xl-6 col-xxl-2 mb-md-5 mb-xl-10">
             @include('partials/widgets/cards/_widget-1')
@@ -20,7 +32,7 @@
         </div>
     </div>
     <div class="row g-5 g-xl-10">
-        <div class="col-xl-12 col-md-6">
+        <div class="col-xl-12 col-md-6 mb-md-5 mb-xl-10">
             @include('partials/widgets/charts/_widget-1')
         </div>
     </div>

@@ -4,23 +4,14 @@
 		<span class="fw-bold text-dark">Live Events</span>
 	  </h3>
 	  <div class="card-toolbar">
-		<div
-		  class="form-check form-check-solid col-form-label form-switch fv-row"
-		>
-		  <input
-			class="form-check-input w-45px h-30px"
-			type="checkbox"
-			name="up_fdns"
-			id="up_fdns"
-		  />
-		  <label
-			class="form-check-label"
-			for="up_fdns"
-		  ></label>
+		<label class="pe-4 fw-bold" for="autorefresh">Auto Refresh</label>
+		<div class="form-check form-check-solid col-form-label form-switch fv-row">
+			<input class="form-check-input w-45px h-30px" type="checkbox" name="autoRefreshLiveEvents" id="autorefresh" />
+			<label class="form-check-label" for="autorefresh"></label>
 		</div>
 	  </div>
 	</div>
-
+	
 	<div class="card-body pt-8 px-6">
 	  <div
 		class="hover-scroll-overlay-y px-2"

@@ -255,9 +255,13 @@
 .table tr:first-child, .table th:first-child, .table td:first-child{
   padding-left: 10px !important;
 }
+.table.gy-5 th, .table.gy-5 td {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
 .table.gy-7 th, .table.gy-7 td {
-  padding-top: 15px !important;
-  padding-bottom: 15px !important;
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
 }
 .table tbody tr:nth-of-type(odd) {
   background-color: #f7f8fa;
@@ -267,4 +271,34 @@ table#campaignstats tr th:nth-child(2), table#campaignstats tr td:nth-child(2), 
 }
 .nav-tabs .nav-item .nav-link.active, .nav-tabs .nav-item .nav-link:active, .nav-tabs .nav-item .nav-link:hover {
   color: #333 !important;
+}
+label, .form-check-input {
+  cursor: pointer;
+}
+
+/* charts css add */
+
+#piechartdiv,#maps{
+  width: 100%;
+  height: 350px;
+}
+#barchartdiv{
+  width: 100%;
+  height: 400px;
+}
+#livechartdiv{
+  width: 100%;
+  height: 150px;
+}
+g [aria-labelledby="id-451-title"],
+[aria-labelledby="id-66-title"],
+[aria-labelledby="id-193-title"],
+[aria-labelledby="id-347-title"],
+[aria-labelledby="id-220-title"],
+[aria-labelledby="id-308-title"],
+[aria-labelledby="id-440-title"],
+[aria-labelledby="id-523-title"],
+.anychart-credits-text,
+.anychart-credits-logo {
+  display: none;
 }

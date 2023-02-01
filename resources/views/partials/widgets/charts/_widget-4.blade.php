@@ -1,3 +1,51 @@
+<script>
+  am4core.ready(function() {
+  am4core.useTheme(am4themes_animated);
+  var chart = am4core.create("piechartdiv", am4charts.PieChart);
+  var pieSeries = chart.series.push(new am4charts.PieSeries());
+  pieSeries.dataFields.value = "litres";
+  pieSeries.dataFields.category = "country";
+  chart.innerRadius = am4core.percent(30);
+  pieSeries.slices.template.stroke = am4core.color("#fff");
+  pieSeries.slices.template.strokeWidth = 2;
+  pieSeries.slices.template.strokeOpacity = 1;
+  pieSeries.slices.template
+    .cursorOverStyle = [
+      {
+        "property": "cursor",
+        "value": "pointer"
+      }
+    ];
+  
+  pieSeries.alignLabels = false;
+  pieSeries.labels.template.bent = true;
+  pieSeries.labels.template.radius = 3;
+  pieSeries.labels.template.padding(0,0,0,0);
+  
+  pieSeries.ticks.template.disabled = true;
+  
+  var shadow = pieSeries.slices.template.filters.push(new am4core.DropShadowFilter);
+  shadow.opacity = 0;
+  
+  var hoverState = pieSeries.slices.template.states.getKey("hover"); // normally we have to create the hover state, in this case it already exists
+  
+  var hoverShadow = hoverState.filters.push(new am4core.DropShadowFilter);
+  hoverShadow.opacity = 0.7;
+  hoverShadow.blur = 5;
+  
+  chart.legend = new am4charts.Legend();
+  
+  chart.data = [{
+    "country": "Desktop",
+    "litres": 55
+  },{
+    "country": "Mobile",
+    "litres": 45
+  }];
+  
+  });
+</script>
+
 <div class="card card-xl-stretch mb-5 mb-xl-8">
   <div class="card-header px-6">
     <div class="card-title flex-column">
