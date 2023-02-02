@@ -6,8 +6,6 @@ class DashboardController extends Controller
 {
     public function index()
     {
-        addVendors(['amcharts', 'amcharts-maps', 'amcharts-stock']);
-
         return view('pages.dashboards.index');
     }
 
@@ -18,8 +16,6 @@ class DashboardController extends Controller
 
     public function charts()
     {
-        addVendors(['amcharts', 'amcharts-maps', 'amcharts-stock']);
-
         return view('pages.library.charts');
     }
 }
