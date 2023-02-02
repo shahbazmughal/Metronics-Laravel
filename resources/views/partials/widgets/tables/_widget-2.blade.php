@@ -94,7 +94,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -134,7 +134,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -174,7 +174,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -216,7 +216,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -256,7 +256,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -298,7 +298,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -338,7 +338,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -378,7 +378,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -418,7 +418,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -458,7 +458,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -521,7 +521,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -561,7 +561,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -601,7 +601,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -643,7 +643,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -683,7 +683,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -725,7 +725,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -765,7 +765,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -805,7 +805,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -845,7 +845,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -885,7 +885,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -948,7 +948,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -988,7 +988,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -1028,7 +1028,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -1070,7 +1070,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -1110,7 +1110,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -1152,7 +1152,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -1192,7 +1192,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -1232,7 +1232,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -1272,7 +1272,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>
@@ -1312,7 +1312,7 @@
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+					<span class="fa fa-chart-bar fa-lg"></span>
 				  </a>
 				</td>
 			  </tr>

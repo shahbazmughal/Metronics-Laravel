@@ -1,6 +1,6 @@
 <div class="menu menu-sub menu-sub-dropdown menu-column w-350px w-lg-375px" data-kt-menu="true">
 	<div class="d-flex flex-column bgi-no-repeat rounded-top" style="background-image:url({{ image('misc/menu-header-bg.jpg') }})">
-		<h3 class="text-white fw-semibold px-9 mt-10 mb-6">Processes
+		<h3 class="text-white fw-semibold px-9 mt-10 mb-7">Processes
 		<span class="fs-8 opacity-75 ms-3 badge badge-light-info">10</span></h3>
 		<ul class="nav nav-line-tabs nav-line-tabs-2x nav-stretch fw-semibold px-9">
 			<li class="nav-item">
