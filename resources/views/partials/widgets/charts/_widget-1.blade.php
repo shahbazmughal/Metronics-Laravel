@@ -70,7 +70,7 @@
 			interval = setInterval(function() {
 				visits =
 					visits + Math.round((Math.random() < 1 ? 15 : -1) * Math.random() * 30);
-				var lastdataItem = series.dataItems.getIndex(series.dataItems.length - 1);
+				var lastdataItem = series.dataItems.getIndex(series && series.dataItems.length - 1);
 				chart.addData(
 					{ date: new Date(lastdataItem.dateX.getTime() + 1000), value: visits },
 					1
