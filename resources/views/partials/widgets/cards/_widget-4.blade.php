@@ -13,5 +13,6 @@
           <span class="fw-semibold fs-6 text-gray-400">Sending Nodes</span>
         </div>
       </div>
+      <span class="fw-semibold fs-6 text-transparent">This Month</span>
     </div>
   </div>

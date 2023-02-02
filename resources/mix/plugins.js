@@ -36,11 +36,11 @@ module.exports = [
 
     // Select2 - Select2 is a jQuery based replacement for select boxes: https://select2.org/
     'node_modules/select2/dist/js/select2.full.js',
-    'resources/_keenthemes/src/js/vendors/plugins/select2.init.js',
+    'resources/_mumara/src/js/vendors/plugins/select2.init.js',
 
     // FormValidation - Best premium validation library for JavaScript. Zero dependencies. Learn more: https://formvalidation.io/
-    'resources/_keenthemes/src/plugins/formvalidation/dist/js/FormValidation.full.min.js',
-    'resources/_keenthemes/src/plugins/formvalidation/dist/js/plugins/Bootstrap5.min.js',
+    'resources/_mumara/src/plugins/formvalidation/dist/js/FormValidation.full.min.js',
+    'resources/_mumara/src/plugins/formvalidation/dist/js/plugins/Bootstrap5.min.js',
 
     // Bootstrap Maxlength - This plugin integrates by default with Twitter bootstrap using badges to display the maximum length of the field where the user is inserting text: https://github.com/mimo84/bootstrap-maxlength
     'node_modules/bootstrap-maxlength/src/bootstrap-maxlength.js',
@@ -63,7 +63,7 @@ module.exports = [
 
     // DropzoneJS -  is an open source library that provides drag'n'drop file uploads with image previews: https://www.dropzonejs.com/
     'node_modules/dropzone/dist/min/dropzone.min.js',
-    'resources/_keenthemes/src/js/vendors/plugins/dropzone.init.js',
+    'resources/_mumara/src/js/vendors/plugins/dropzone.init.js',
 
     // Quill - is a free, open source WYSIWYG editor built for the modern web. Completely customize it for any need with its modular architecture and expressive API: https://quilljs.com/
     'node_modules/quill/dist/quill.js',
@@ -73,7 +73,7 @@ module.exports = [
     'node_modules/@yaireo/tagify/dist/tagify.min.js',
 
     // Toastr - is a Javascript library for non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended: https://github.com/CodeSeven/toastr
-    'resources/_keenthemes/src/plugins/toastr/build/toastr.min.js',
+    'resources/_mumara/src/plugins/toastr/build/toastr.min.js',
 
     // Apexcharts - modern charting library that helps developers to create beautiful and interactive visualizations for web pages: https://apexcharts.com/
     'node_modules/apexcharts/dist/apexcharts.min.js',
@@ -83,7 +83,7 @@ module.exports = [
 
     // Sweetalert2 - a beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes: https://sweetalert2.github.io/
     'node_modules/sweetalert2/dist/sweetalert2.min.js',
-    'resources/_keenthemes/src/js/vendors/plugins/sweetalert2.init.js',
+    'resources/_mumara/src/js/vendors/plugins/sweetalert2.init.js',
 
     // CountUp.js - is a dependency-free, lightweight JavaScript class that can be used to quickly create animations that display numerical data in a more interesting way.
     'node_modules/countup.js/dist/countUp.umd.js',

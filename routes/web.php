@@ -17,6 +17,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [DashboardController::class, 'index'])->middleware(['auth', 'verified']);
 
 Route::get('/dashboard', [DashboardController::class, 'index'])->middleware(['auth', 'verified'])->name('dashboard');
+Route::get('/library', [DashboardController::class, 'library'])->middleware(['auth', 'verified'])->name('library');
+Route::get('/charts', [DashboardController::class, 'charts'])->middleware(['auth', 'verified'])->name('charts');
 
 Route::get('/error', function () {
     abort(500);

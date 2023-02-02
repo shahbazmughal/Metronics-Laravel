@@ -59,21 +59,21 @@
 			</thead>
 			<tbody>
 			  <tr>
-				<td>mohammad test</td>
+				<td>Schedule 01</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-				  ></a>
+				  >15</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/
+					/ 45
 				  </a>
 				</td>
 				<td>
@@ -82,38 +82,42 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-				  ></a>
+				  >35</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/
+					/ 55
 				  </a>
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+						<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>Test 2</td>
+				<td>Schedule 02</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-				  ></a>
+				  >40</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/
+					/ 60
 				  </a>
 				</td>
 				<td>
@@ -122,38 +126,42 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-				  ></a>
+				  >80</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/
+					/ 95
 				  </a>
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>Test 1</td>
+				<td>Schedule 03</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-				  ></a>
+				  >55</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/
+					/ 65
 				  </a>
 				</td>
 				<td>
@@ -162,31 +170,35 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-				  ></a>
+				  >124</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/
+					/ 190
 				  </a>
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>statistics test 3</td>
+				<td>Schedule 04</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-					>3</a
+					>30</a
 				  >
 				  <a
 					class=""
@@ -194,7 +206,7 @@
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/ 10</a
+					/ 100</a
 				  >
 				</td>
 				<td>
@@ -203,7 +215,7 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-					>2</a
+					>25</a
 				  >
 				  <a
 					class=""
@@ -211,31 +223,35 @@
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/ 9</a
+					/ 80</a
 				  >
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>statistics test 2</td>
+				<td>Schedule 05</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-				  ></a>
+				  >13</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/ 7</a
+					/ 52</a
 				  >
 				</td>
 				<td>
@@ -244,31 +260,35 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-				  ></a>
+				  >85</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/
+					/90
 				  </a>
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>Statistics test 1</td>
+				<td>Schedule 06</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-					>2</a
+					>11</a
 				  >
 				  <a
 					class=""
@@ -276,7 +296,7 @@
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/ 5</a
+					/ 65</a
 				  >
 				</td>
 				<td>
@@ -285,7 +305,7 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-					>1</a
+					>33</a
 				  >
 				  <a
 					class=""
@@ -293,31 +313,35 @@
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/ 8</a
+					/ 63</a
 				  >
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>SparkPost Test Rescheduled</td>
+				<td>Schedule 07</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-				  ></a>
+				  >45</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/
+					/ 85
 				  </a>
 				</td>
 				<td>
@@ -326,38 +350,42 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-				  ></a>
+				  >21</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/
+					/ 36
 				  </a>
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>Sam SendGrid Broadcast Rescheduled</td>
+				<td>Schedule 08</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-				  ></a>
+				  >10</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/
+					/ 15
 				  </a>
 				</td>
 				<td>
@@ -366,99 +394,23 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-				  ></a>
+				  >26</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/
+					/ 46
 				  </a>
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
-				  </a>
-				</td>
-			  </tr>
-			  <tr>
-				<td>SparkPost Test</td>
-				<td>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Opens"
-					data-original-title="Unique Opens"
-				  ></a>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Opens"
-					data-original-title="Total Opens"
-				  >
-					/
-				  </a>
-				</td>
-				<td>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Clicked"
-					data-original-title="Unique Clicked"
-				  ></a>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Clicked"
-					data-original-title="Total Clicked"
-				  >
-					/
-				  </a>
-				</td>
-				<td>
-				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
-				  </a>
-				</td>
-			  </tr>
-			  <tr>
-				<td>Sam SendGrid Broadcast</td>
-				<td>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Opens"
-					data-original-title="Unique Opens"
-				  ></a>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Opens"
-					data-original-title="Total Opens"
-				  >
-					/
-				  </a>
-				</td>
-				<td>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Clicked"
-					data-original-title="Unique Clicked"
-				  ></a>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Clicked"
-					data-original-title="Total Clicked"
-				  >
-					/
-				  </a>
-				</td>
-				<td>
-				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
@@ -486,21 +438,21 @@
 			</thead>
 			<tbody>
 			  <tr>
-				<td>mohammad test</td>
+				<td>Schedule 01</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-				  ></a>
+				  >45</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/
+					/ 56
 				  </a>
 				</td>
 				<td>
@@ -509,38 +461,42 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-				  ></a>
+				  >33</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/
+					/ 52
 				  </a>
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>Test 2</td>
+				<td>Schedule 02</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-				  ></a>
+				  >96</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/
+					/ 123
 				  </a>
 				</td>
 				<td>
@@ -549,38 +505,42 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-				  ></a>
+				  >32</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/
+					/ 85
 				  </a>
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>Test 1</td>
+				<td>Schedule 03</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-				  ></a>
+				  >36</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/
+					/ 123
 				  </a>
 				</td>
 				<td>
@@ -589,31 +549,35 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-				  ></a>
+				  >45</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/
+					/ 85
 				  </a>
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>statistics test 3</td>
+				<td>Schedule 04</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-					>3</a
+					>45</a
 				  >
 				  <a
 					class=""
@@ -621,7 +585,7 @@
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/ 10</a
+					/ 96</a
 				  >
 				</td>
 				<td>
@@ -630,7 +594,7 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-					>2</a
+					>12</a
 				  >
 				  <a
 					class=""
@@ -638,31 +602,35 @@
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/ 9</a
+					/ 63</a
 				  >
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>statistics test 2</td>
+				<td>Schedule 05</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-				  ></a>
+				  >44</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/ 7</a
+					/ 96</a
 				  >
 				</td>
 				<td>
@@ -671,31 +639,35 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-				  ></a>
+				  >21</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/
+					/ 63
 				  </a>
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>Statistics test 1</td>
+				<td>Schedule 06</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-					>2</a
+					>11</a
 				  >
 				  <a
 					class=""
@@ -703,7 +675,7 @@
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/ 5</a
+					/ 55</a
 				  >
 				</td>
 				<td>
@@ -712,7 +684,7 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-					>1</a
+					>41</a
 				  >
 				  <a
 					class=""
@@ -720,31 +692,35 @@
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/ 8</a
+					/ 68</a
 				  >
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>SparkPost Test Rescheduled</td>
+				<td>Schedule 07</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-				  ></a>
+				  >52</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/
+					/ 96
 				  </a>
 				</td>
 				<td>
@@ -753,38 +729,42 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-				  ></a>
+				  >25</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/
+					/ 75
 				  </a>
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>Sam SendGrid Broadcast Rescheduled</td>
+				<td>Schedule 08</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-				  ></a>
+				  >34</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/
+					/ 97
 				  </a>
 				</td>
 				<td>
@@ -793,99 +773,23 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-				  ></a>
+				  >27</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/
+					/ 96
 				  </a>
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
-				  </a>
-				</td>
-			  </tr>
-			  <tr>
-				<td>SparkPost Test</td>
-				<td>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Opens"
-					data-original-title="Unique Opens"
-				  ></a>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Opens"
-					data-original-title="Total Opens"
-				  >
-					/
-				  </a>
-				</td>
-				<td>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Clicked"
-					data-original-title="Unique Clicked"
-				  ></a>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Clicked"
-					data-original-title="Total Clicked"
-				  >
-					/
-				  </a>
-				</td>
-				<td>
-				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
-				  </a>
-				</td>
-			  </tr>
-			  <tr>
-				<td>Sam SendGrid Broadcast</td>
-				<td>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Opens"
-					data-original-title="Unique Opens"
-				  ></a>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Opens"
-					data-original-title="Total Opens"
-				  >
-					/
-				  </a>
-				</td>
-				<td>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Clicked"
-					data-original-title="Unique Clicked"
-				  ></a>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Clicked"
-					data-original-title="Total Clicked"
-				  >
-					/
-				  </a>
-				</td>
-				<td>
-				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
@@ -913,21 +817,21 @@
 			</thead>
 			<tbody>
 			  <tr>
-				<td>mohammad test</td>
+				<td>Schedule 01</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-				  ></a>
+				  >11</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/
+					/ 52
 				  </a>
 				</td>
 				<td>
@@ -936,38 +840,42 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-				  ></a>
+				  >32</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/
+					/ 54
 				  </a>
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>Test 2</td>
+				<td>Schedule 02</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-				  ></a>
+				  >25</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/
+					/ 63
 				  </a>
 				</td>
 				<td>
@@ -976,38 +884,42 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-				  ></a>
+				  >21</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/
+					/ 63
 				  </a>
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>Test 1</td>
+				<td>Schedule 03</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-				  ></a>
+				  >45</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/
+					/ 96
 				  </a>
 				</td>
 				<td>
@@ -1016,31 +928,35 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-				  ></a>
+				  >74</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/
+					/ 120
 				  </a>
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>statistics test 3</td>
+				<td>Schedule 04</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-					>3</a
+					>21</a
 				  >
 				  <a
 					class=""
@@ -1048,7 +964,7 @@
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/ 10</a
+					/ 63</a
 				  >
 				</td>
 				<td>
@@ -1057,7 +973,7 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-					>2</a
+					>25</a
 				  >
 				  <a
 					class=""
@@ -1065,31 +981,35 @@
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/ 9</a
+					/ 95</a
 				  >
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>statistics test 2</td>
+				<td>Schedule 05</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-				  ></a>
+				  >45</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/ 7</a
+					/ 85</a
 				  >
 				</td>
 				<td>
@@ -1098,31 +1018,35 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-				  ></a>
+				  >50</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/
+					/ 60
 				  </a>
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>Statistics test 1</td>
+				<td>Schedule 06</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-					>2</a
+					>40</a
 				  >
 				  <a
 					class=""
@@ -1130,7 +1054,7 @@
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/ 5</a
+					/ 90</a
 				  >
 				</td>
 				<td>
@@ -1139,7 +1063,7 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-					>1</a
+					>30</a
 				  >
 				  <a
 					class=""
@@ -1147,31 +1071,35 @@
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/ 8</a
+					/ 65</a
 				  >
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>SparkPost Test Rescheduled</td>
+				<td>Schedule 07</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-				  ></a>
+				  >33</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/
+					/ 96
 				  </a>
 				</td>
 				<td>
@@ -1180,38 +1108,42 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-				  ></a>
+				  >44</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/
+					/ 66
 				  </a>
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
 			  <tr>
-				<td>Sam SendGrid Broadcast Rescheduled</td>
+				<td>Schedule 08</td>
 				<td>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Unique Opens"
 					data-original-title="Unique Opens"
-				  ></a>
+				  >13</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Opens"
 					data-original-title="Total Opens"
 				  >
-					/
+					/ 99
 				  </a>
 				</td>
 				<td>
@@ -1220,99 +1152,23 @@
 					data-toggle="tooltip"
 					title="Unique Clicked"
 					data-original-title="Unique Clicked"
-				  ></a>
+				  >37</a>
 				  <a
 					class=""
 					data-toggle="tooltip"
 					title="Total Clicked"
 					data-original-title="Total Clicked"
 				  >
-					/
+					/ 73
 				  </a>
 				</td>
 				<td>
 				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
-				  </a>
-				</td>
-			  </tr>
-			  <tr>
-				<td>SparkPost Test</td>
-				<td>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Opens"
-					data-original-title="Unique Opens"
-				  ></a>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Opens"
-					data-original-title="Total Opens"
-				  >
-					/
-				  </a>
-				</td>
-				<td>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Clicked"
-					data-original-title="Unique Clicked"
-				  ></a>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Clicked"
-					data-original-title="Total Clicked"
-				  >
-					/
-				  </a>
-				</td>
-				<td>
-				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
-				  </a>
-				</td>
-			  </tr>
-			  <tr>
-				<td>Sam SendGrid Broadcast</td>
-				<td>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Opens"
-					data-original-title="Unique Opens"
-				  ></a>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Opens"
-					data-original-title="Total Opens"
-				  >
-					/
-				  </a>
-				</td>
-				<td>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Clicked"
-					data-original-title="Unique Clicked"
-				  ></a>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Clicked"
-					data-original-title="Total Clicked"
-				  >
-					/
-				  </a>
-				</td>
-				<td>
-				  <a href="javascript:;">
-					<span class="fa fa-chart-bar"></span>
+				  	<div class="symbol symbol-25px">
+					  	<span class="symbol-label bg-light-primary">
+							<i class="fa fa-chart-bar me-0 text-primary"></i>
+						</span>
+					</div>
 				  </a>
 				</td>
 			  </tr>
