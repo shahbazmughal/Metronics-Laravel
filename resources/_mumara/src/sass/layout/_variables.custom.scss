@@ -17,7 +17,7 @@ $app-general-root-font-size-mobile: 12px;
 $app-header-base-height: 70px;
 $app-header-base-height-mobile: 60px;
 $app-header-base-bg-color: $body-bg;
-$app-header-base-bg-color-dark: #1e1e2d;
+$app-header-base-bg-color-dark: #123;
 $app-header-base-bg-color-mobile: $app-header-base-bg-color;
 $app-header-base-bg-color-mobile-dark: $app-header-base-bg-color-dark;
 $app-header-base-box-shadow: 0px 10px 30px 0px rgba(82,63,105,0.05);
@@ -32,7 +32,7 @@ $app-header-light-separator-color: #E4E6EF;
 $app-header-light-separator-color-dark: $border-color-dark;
 
 // Header dark
-$app-header-dark-bg-color: #1e1e2d;
+$app-header-dark-bg-color: #123;
 $app-header-dark-separator-color: #282a3d;
 $app-header-dark-scrollbar-color: #3b3b64;
 $app-header-dark-scrollbar-color-hover: lighten($app-header-dark-scrollbar-color, 3%);
@@ -51,7 +51,7 @@ $app-sidebar-minimize-width: 75px;
 
 // Sidebar light
 $app-sidebar-light-bg-color: $body-bg;
-$app-sidebar-light-bg-color-dark: #1e1e2d;
+$app-sidebar-light-bg-color-dark: #123;
 
 $app-sidebar-light-box-shadow: 0 0 28px 0 rgba(82,63,105,.05);
 $app-sidebar-light-box-shadow-dark: none;
@@ -71,7 +71,7 @@ $app-sidebar-light-header-menu-link-bg-color-active: #EAEEF2;
 $app-sidebar-light-header-menu-link-bg-color-active-dark: $gray-100-dark;
     
 // Sidebar dark
-$app-sidebar-dark-bg-color: #1e1e2d;
+$app-sidebar-dark-bg-color: #123;
 $app-sidebar-dark-separator-color: #393945;
 $app-sidebar-dark-scrollbar-color: $gray-300-dark;
 $app-sidebar-dark-scrollbar-color-hover: $gray-300-dark;
@@ -81,7 +81,7 @@ $app-sidebar-dark-menu-link-bg-color-active: #2A2A3C;
 // Toolbar base
 $app-toolbar-base-height: 55px;
 $app-toolbar-base-bg-color:$body-bg;
-$app-toolbar-base-bg-color-dark: darken(#1e1e2d, 2%);
+$app-toolbar-base-bg-color-dark: darken(#123, 2%);
 $app-toolbar-base-bg-color-mobile: $app-toolbar-base-bg-color;
 $app-toolbar-base-bg-color-mobile-dark: $app-toolbar-base-bg-color-dark;
 $app-toolbar-base-box-shadow: 0px 10px 30px 0px rgba(82,63,105,0.05);
@@ -97,7 +97,7 @@ $app-toolbar-base-border-top-mobile-dark: $app-toolbar-base-border-top-mobile;
 $app-footer-height: 60px;
 $app-footer-height-mobile: auto;
 $app-footer-bg-color: $body-bg;
-$app-footer-bg-color-dark: #1e1e2d;
+$app-footer-bg-color-dark: #123;
 $app-footer-bg-color-mobile: $app-footer-bg-color;
 $app-footer-bg-color-mobile-dark: $app-footer-bg-color-dark;
 $app-footer-box-shadow: 0px 10px 30px 0px rgba(82,63,105,0.05);

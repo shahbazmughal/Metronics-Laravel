@@ -70,7 +70,8 @@
 [data-kt-app-layout="light-sidebar"][data-kt-app-header-fixed="true"] {
     .app-sidebar {
         .app-sidebar-logo {
-            border-bottom: 1px dashed var(--kt-app-sidebar-light-separator-color);
+            border-bottom: 1px dashed #112942;
+            background: #0a1725;
         }
     }
 }

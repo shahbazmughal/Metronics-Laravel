@@ -295,7 +295,7 @@ $position-values: (
 // Settings for the `<body>` element.
 $body-bg:                   $white !default;
 $body-bg-rgb:               to-rgb($body-bg) !default;
-$body-bg-dark:              #1e1e2d !default;
+$body-bg-dark:              #123 !default;
 $body-bg-rgb-dark:          to-rgb($body-bg-dark) !default;
 $body-color:                $gray-900 !default;
 $body-color-dark:           $gray-900-dark !default;
