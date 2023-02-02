@@ -6,7 +6,7 @@
 		data-kt-scroll-dependencies="#kt_app_sidebar_logo, #kt_app_sidebar_footer"
 		data-kt-scroll-wrappers="#kt_app_sidebar_menu" data-kt-scroll-offset="5px">
 		<!--begin::Menu-->
-		<div class="menu menu-column menu-rounded menu-sub-indention px-3" id="#kt_app_sidebar_menu" data-kt-menu="true"
+		<div class="menu menu-column menu-rounded menu-sub-indention" id="#kt_app_sidebar_menu" data-kt-menu="true"
 			data-kt-menu-expand="false">
 			<!--begin:Menu item-->
 			<div class="menu-item pt-5">

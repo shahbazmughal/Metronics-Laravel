@@ -303,10 +303,14 @@ g [aria-labelledby="id-451-title"],
   display: none;
 }
 
-
-
 @media (min-width: 1600px){
   .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container {
     max-width: 1440px !important;
   }
+}
+
+.app-sidebar-menu .menu > .menu-item.show>a.menu-link {
+  background: #0a1725;
+  border-radius: 0;
+  padding:12px;
 }
