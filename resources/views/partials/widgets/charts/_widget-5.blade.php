@@ -1,7 +1,7 @@
 <script>
   function loadmap() {
     anychart.onDocumentReady(function () {
-      var url = "https://cdn.anychart.com/samples/maps-general-features/world-choropleth-map/data.json";
+      var url = "/assets/media/misc/data.json";
 
       $("#maps").html("");
 

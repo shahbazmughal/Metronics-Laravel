@@ -17,7 +17,7 @@
     {!! includeFavicon() !!}
 
     <!--begin::Fonts-->
-    {!! includeFonts() !!}
+    <!-- {!! includeFonts() !!} -->
     <!--end::Fonts-->
 
     <!--begin::Global Stylesheets Bundle(used by all pages)-->
