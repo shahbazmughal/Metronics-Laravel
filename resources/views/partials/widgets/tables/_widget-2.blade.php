@@ -61,33 +61,33 @@
 			  <tr>
 				<td>Schedule 01</td>
 				<td>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Opens"
-					data-original-title="Unique Opens"
+				<a
+					class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Unique Opens"
 				  >15</a>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Opens"
-					data-original-title="Total Opens"
+					class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Total Opens"
 				  >
 					/ 45
 				  </a>
 				</td>
 				<td>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Clicked"
-					data-original-title="Unique Clicked"
+				  	class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Unique Clicked"
 				  >35</a>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Clicked"
-					data-original-title="Total Clicked"
+				  	class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Total Clicked"
 				  >
 					/ 55
 				  </a>
@@ -106,32 +106,32 @@
 				<td>Schedule 02</td>
 				<td>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Opens"
-					data-original-title="Unique Opens"
+					class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Unique Opens"
 				  >40</a>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Opens"
-					data-original-title="Total Opens"
+					class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Total Opens"
 				  >
 					/ 60
 				  </a>
 				</td>
 				<td>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Clicked"
-					data-original-title="Unique Clicked"
+				  	class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Unique Clicked"
 				  >80</a>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Clicked"
-					data-original-title="Total Clicked"
+				  	class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Total Clicked"
 				  >
 					/ 95
 				  </a>
@@ -440,41 +440,41 @@
 			  <tr>
 				<td>Schedule 01</td>
 				<td>
+				<a
+					class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Unique Opens"
+				  >15</a>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Opens"
-					data-original-title="Unique Opens"
-				  >45</a>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Opens"
-					data-original-title="Total Opens"
+					class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Total Opens"
 				  >
-					/ 56
+					/ 45
 				  </a>
 				</td>
 				<td>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Clicked"
-					data-original-title="Unique Clicked"
-				  >33</a>
+				  	class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Unique Clicked"
+				  >35</a>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Clicked"
-					data-original-title="Total Clicked"
+				  	class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Total Clicked"
 				  >
-					/ 52
+					/ 55
 				  </a>
 				</td>
 				<td>
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
-					  	<span class="symbol-label bg-light-primary">
+						<span class="symbol-label bg-light-primary">
 							<i class="fa fa-chart-bar me-0 text-primary"></i>
 						</span>
 					</div>
@@ -485,34 +485,34 @@
 				<td>Schedule 02</td>
 				<td>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Opens"
-					data-original-title="Unique Opens"
-				  >96</a>
+					class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Unique Opens"
+				  >40</a>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Opens"
-					data-original-title="Total Opens"
+					class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Total Opens"
 				  >
-					/ 123
+					/ 60
 				  </a>
 				</td>
 				<td>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Clicked"
-					data-original-title="Unique Clicked"
-				  >32</a>
+				  	class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Unique Clicked"
+				  >80</a>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Clicked"
-					data-original-title="Total Clicked"
+				  	class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Total Clicked"
 				  >
-					/ 85
+					/ 95
 				  </a>
 				</td>
 				<td>
@@ -819,41 +819,41 @@
 			  <tr>
 				<td>Schedule 01</td>
 				<td>
+				<a
+					class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Unique Opens"
+				  >15</a>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Opens"
-					data-original-title="Unique Opens"
-				  >11</a>
-				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Opens"
-					data-original-title="Total Opens"
+					class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Total Opens"
 				  >
-					/ 52
+					/ 45
 				  </a>
 				</td>
 				<td>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Clicked"
-					data-original-title="Unique Clicked"
-				  >32</a>
+				  	class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Unique Clicked"
+				  >35</a>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Clicked"
-					data-original-title="Total Clicked"
+				  	class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Total Clicked"
 				  >
-					/ 54
+					/ 55
 				  </a>
 				</td>
 				<td>
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
-					  	<span class="symbol-label bg-light-primary">
+						<span class="symbol-label bg-light-primary">
 							<i class="fa fa-chart-bar me-0 text-primary"></i>
 						</span>
 					</div>
@@ -864,34 +864,34 @@
 				<td>Schedule 02</td>
 				<td>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Opens"
-					data-original-title="Unique Opens"
-				  >25</a>
+					class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Unique Opens"
+				  >40</a>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Opens"
-					data-original-title="Total Opens"
+					class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Total Opens"
 				  >
-					/ 63
+					/ 60
 				  </a>
 				</td>
 				<td>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Unique Clicked"
-					data-original-title="Unique Clicked"
-				  >21</a>
+				  	class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Unique Clicked"
+				  >80</a>
 				  <a
-					class=""
-					data-toggle="tooltip"
-					title="Total Clicked"
-					data-original-title="Total Clicked"
+				  	class="text-link"
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-original-title="Total Clicked"
 				  >
-					/ 63
+					/ 95
 				  </a>
 				</td>
 				<td>
