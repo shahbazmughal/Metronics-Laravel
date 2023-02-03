@@ -96,7 +96,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 						<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -140,7 +140,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -184,7 +184,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -230,7 +230,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -274,7 +274,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -320,7 +320,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -364,7 +364,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -408,7 +408,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -475,7 +475,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 						<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -519,7 +519,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -563,7 +563,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -609,7 +609,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -653,7 +653,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -699,7 +699,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -743,7 +743,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -787,7 +787,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -854,7 +854,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 						<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -898,7 +898,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -942,7 +942,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -988,7 +988,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -1032,7 +1032,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -1078,7 +1078,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -1122,7 +1122,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>
@@ -1166,7 +1166,7 @@
 				  <a href="javascript:;">
 				  	<div class="symbol symbol-25px">
 					  	<span class="symbol-label bg-light-primary">
-							<i class="fa fa-chart-bar me-0 text-primary"></i>
+							<i class="fa fa-chart-bar fa-lg me-0 text-primary"></i>
 						</span>
 					</div>
 				  </a>

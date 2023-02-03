@@ -72,7 +72,7 @@
 					visits + Math.round((Math.random() < 1 ? 15 : -1) * Math.random() * 30);
 				var lastdataItem = series.dataItems.getIndex(series && series.dataItems.length - 1);
 				chart.addData(
-					{ date: new Date(lastdataItem.dateX.getTime() + 1000), value: visits },
+					{ date: new Date(lastdataItem.dateX.getTime() + 5000), value: visits },
 					1
 				);
 			}, 5000);
