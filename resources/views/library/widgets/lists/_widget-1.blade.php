@@ -39,15 +39,14 @@
     transition: color .2s ease,background-color .2s ease;
 }
 
-.select2-search--dropdown .select2-search__field {
-    padding: 5px;
-    width: 100%;
-    box-sizing: border-box;
-    border-radius: 5px;
-}
-[type=search] {
-    outline-offset: 0px !important;
-    -webkit-appearance: textfield;
+.select2-container--bootstrap5 .select2-dropdown .select2-search .select2-search__field {
+    background-color: #ffffff;
+    padding: 0.55rem 0.75rem;
+    color: var(--bs-input-color);
+    font-size: 0.95rem;
+    border: 1px solid #e1e3ea;
+    border-radius: 0.425rem;
+    outline: 0 !important;
 }
 </style>
 <div class="card mb-5 mb-xl-10">
