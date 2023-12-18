@@ -55,11 +55,9 @@
 			var data = [];
 			var visits = 10;
 			var i = 0;
-	
 			for (i = 0; i <= 10; i++) {
 				data.push({ date: new Date().setSeconds(i), value: 0 });
 			}
-	
 			chart.data = data;
 			chart.validateData();
 		}
